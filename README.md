@@ -1,10 +1,9 @@
-Angelscript JIT Compiler
+ASJIT
 ========================
-A Just-In-Time Compiler for use with AngelScript.
+A fork of "Angelscript JIT Compiler" made to actively support the latest version of Angel Script (2.38.0) and focus primarily on the x64 architecture.
 
-Currently supports x86 and x86_64 processors on both Windows (using MSVC 2010 or later) and Linux (using GCC 4.6.2 or later)
-
-Compatible with version of 2.31.0 of the AngelScript library.
+Original Description
+========================
 
 License (MIT)
 -------------
